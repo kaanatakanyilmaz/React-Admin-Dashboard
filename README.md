@@ -13,3 +13,10 @@
 - **React Router DOM**: Uygulama içinde yönlendirme işlemlerini yönetmek için kullanılan kütüphane. Çoklu sayfa yapısına olanak sağladı.
 
 - **Lucide React**: Projede kullanılan ikon setleri için tercih edilen modern ve hafif bir ikon kütüphanesi.
+
+## Projeden Görseller
+
+![1](images/1.png)
+![2](images/2.png)
+![3](images/3.png)
+![4](images/4.png)
