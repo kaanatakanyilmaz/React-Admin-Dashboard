@@ -16,7 +16,8 @@
 
 ## Projeden Görseller
 
-![1](images/1.png)
-![2](images/2.png)
-![3](images/3.png)
-![4](images/4.png)
+![1](https://raw.githubusercontent.com/kaanatakanyilmaz/React-Admin-Dashboard/refs/heads/main/images.png/1.png)
+![2](https://raw.githubusercontent.com/kaanatakanyilmaz/React-Admin-Dashboard/refs/heads/main/images.png/2.png)
+![3](https://raw.githubusercontent.com/kaanatakanyilmaz/React-Admin-Dashboard/refs/heads/main/images.png/3.png)
+![4](https://raw.githubusercontent.com/kaanatakanyilmaz/React-Admin-Dashboard/refs/heads/main/images.png/4.png)
+
